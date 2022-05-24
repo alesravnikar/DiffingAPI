@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32408.312
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiffingAPI", "DiffingAPI\DiffingAPI.csproj", "{C4EE31CA-8BE8-44E4-BE44-AE386CA3EBB7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "IntegrationTests\Tests.csproj", "{FA452CEF-3624-4C38-A6B5-84E09AE9514F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{FA452CEF-3624-4C38-A6B5-84E09AE9514F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
